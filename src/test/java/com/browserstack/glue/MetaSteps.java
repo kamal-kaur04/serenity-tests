@@ -8,6 +8,11 @@ import com.browserstack.datamodel.PersonalDetailsData;
 import io.github.simple4tests.webdriver.reporters.SerenityReporter;
 import net.serenitybdd.annotations.Managed;
 import net.serenitybdd.annotations.Shared;
+
+// for v3.9.8
+// import net.thucydides.core.annotations.Managed;
+// import net.thucydides.core.annotations.Shared;
+
 import org.openqa.selenium.WebDriver;
 
 import java.util.Map;
