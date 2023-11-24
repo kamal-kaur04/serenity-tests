@@ -24,22 +24,17 @@
         <maven-surefire-plugin.version>3.1.2</maven-surefire-plugin.version>
         <maven-failsafe-plugin.version>3.1.2</maven-failsafe-plugin.version>
 
-        <lombok.version>1.18.28</lombok.version>
+        <lombok.version>1.18.30</lombok.version>
         <slf4j.version>2.0.7</slf4j.version>
-        <webdriver-overload.version>2.0.12</webdriver-overload.version>
+        <webdriver-overload.version>3.0.0</webdriver-overload.version>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <serenity.version>4.0.19</serenity.version>
+        <serenity.version>4.0.21</serenity.version>
         <cucumber.version>7.13.0</cucumber.version>
         <junit-platform-suite.version>1.10.0</junit-platform-suite.version>
         <junit-engine.version>5.10.0</junit-engine.version>
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-java</artifactId>
-            <version>4.8.1</version>
-        </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
