@@ -28,7 +28,7 @@
         <slf4j.version>2.0.7</slf4j.version>
         <webdriver-overload.version>3.0.0</webdriver-overload.version>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <serenity.version>4.0.21</serenity.version>
+        <serenity.version>4.0.22</serenity.version>
         <cucumber.version>7.13.0</cucumber.version>
         <junit-platform-suite.version>1.10.0</junit-platform-suite.version>
         <junit-engine.version>5.10.0</junit-engine.version>
